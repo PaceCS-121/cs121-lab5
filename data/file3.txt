@@ -1,0 +1,11 @@
+Write a Python program to analyze weather data. 
+Create a python file called weather.py
+You’ll be accessing the past 24 hours of hyperlocal weather data from Pace’s weather station courtesy of Seidenberg’s Blue CoLab. Visit https://colabprod01.pace.edu/api/v2/sensors/ for more information on each type of sensor. Note that your answers will be different each time you run this as you’ll be pulling new data!
+Copy the following code into the file. Run it to view the structure of the most recent data.
+What’s the total rainfall in this dataset?
+What’s the high temperature recorded in this dataset? (Records are saved in Celsius.)
+What is the average barometric pressure recorded in this dataset?
+What is the median wind direction? (Records are saved in degrees of a circle.) What do you think that maps to in cardinal directions (North, East, South, West)? 
+What is the average (mean) relative humidity?
+Print the most recent weather data. (It’ll be the last record.) Is it currently raining? What’s strange about the timestamp? Why do you think that’s the case?
+Take a screenshot of your results in a terminal (or however you ran your code), copy the screenshot into your GitHub repository and submit it with the rest of your code.

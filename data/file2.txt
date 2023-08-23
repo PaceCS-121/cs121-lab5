@@ -1,0 +1,11 @@
+Write a Python program to analyze student grade data.
+Download the attached constituents-financials_csv.csv file into the data folder in your project
+Create a python filed called grades.py
+Load the csv data into a DataFrame
+How many students are included in this data set? 
+Use Python to print the answer.
+What is the average (mean) final grade? Use Python to print the answer.
+What is the lowest final grade? Use Python to print the answer.
+Which column has the lowest average grade? Use Python to print the answer.
+What is Student 15’s SSS grade? Use Python to print the answer.
+What is Student 10’s highest grade? Use Python to print the answer.

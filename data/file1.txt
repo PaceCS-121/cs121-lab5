@@ -1,0 +1,9 @@
+Write a Python program to count the total number of pronouns used in a list of literary quotes.
+Create a folder in your project and call it data
+Download the attached dunequotes.txt file into the data folder
+Create a file called count_pronouns.py
+Copy the following list into your python file
+Use python to read dunequotes.txt file
+Hint: use the encoding="utf8" parameter when opening the file to ensure it’s read correctly
+Count the total number of times a pronoun from that list is used in the text file. Print the result with an appropriate message.
+Which pronouns is used most often? Print the result with an appropriate message.
